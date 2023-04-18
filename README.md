@@ -1,1 +1,1 @@
-# Face_Mask_Fetection
+# Face_Mask_Detection
